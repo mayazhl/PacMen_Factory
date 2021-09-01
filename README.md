@@ -8,7 +8,7 @@ This is a PacMen making factory game. Create as many or as little PacMen as you 
 
 ## RoadMap
 
-I would like to edit this project in the future so my PacMen will change size whenever hit the edge of the page. Another things is to add music.
+I would like to edit this project in the future so my PacMen will change sizes whenever hit the edge of the page. Another things is to add music.
 
 ## License
 
