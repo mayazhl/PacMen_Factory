@@ -10,6 +10,10 @@ This is a PacMen making factory game. Create as many or as little PacMen as you 
 
 I would like to edit this project in the future so my PacMen will change sizes whenever hit the edge of the page. Another things is to add music.
 
+## Useage
+
+Download the files by cloning the repo to your local machine. The file sources should be open in the project folder for it to work in your browser. This will also work in VS code using the Live Server extension.
+
 ## License
 
 MIT License
